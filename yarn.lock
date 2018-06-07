@@ -3724,9 +3724,9 @@ electron@^1.4.12:
     electron-download "^3.0.1"
     extract-zip "^1.0.3"
 
-electron@^1.8.2:
-  version "1.8.6"
-  resolved "https://registry.yarnpkg.com/electron/-/electron-1.8.6.tgz#6d45e377b321a35b78a794b64e40b2cf8face6ae"
+electron@^2.0.2:
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/electron/-/electron-2.0.2.tgz#b77e05f83419cc5ec921a2d21f35b55e4bfc3d68"
   dependencies:
     "@types/node" "^8.0.24"
     electron-download "^3.0.1"
@@ -4943,7 +4943,7 @@ handlebars@^4.0.1, handlebars@^4.0.3:
   optionalDependencies:
     uglify-js "^2.6"
 
-handsontable@3.0.0:
+handsontable@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/handsontable/-/handsontable-3.0.0.tgz#3e1ac839882439fc2f4f7498f5b75c98159a59b7"
   dependencies:
